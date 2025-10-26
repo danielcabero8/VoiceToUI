@@ -33,3 +33,7 @@ UI shows a layer with the following information
 * "Processing" when the request has been received and we are performing the UI navigation acttions actions
 * "Selected" - the selected node tag
 * "Reason" - Short reasoning from the AI to why for why it chose the selected node.
+
+Third party software:
+* https://github.com/Macoron/whisper.unity?tab=readme-ov-file
+  * Voice to Text using AI developed by OpenAI. plugin is an integration to Unity of OpenAI's sotfware 'Whisper' https://github.com/openai/whisper
